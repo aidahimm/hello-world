@@ -1,3 +1,3 @@
 # hello-world
-This is my first repository :)
-cuz you make my earfquake
+This is my first repository :) watch me do this
+
